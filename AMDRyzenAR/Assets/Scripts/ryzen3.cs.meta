@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 0cfb3421e91c73a498961346350363e0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cubego: {fileID: -927199367670048503, guid: 7963c28f3a12d9848989891529187415,
+      type: 3}
+  - spherego: {fileID: -927199367670048503, guid: f63aecf6fd656b9489f2e750cb193b1a,
+      type: 3}
+  - suara: {instanceID: 0}
+  - anim: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

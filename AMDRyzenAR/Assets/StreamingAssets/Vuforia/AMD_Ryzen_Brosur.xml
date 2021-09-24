@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Ryzen9button" size="20.000000 26.195965" />
+    <ImageTarget name="Ryzen7button" size="20.000000 26.195965" />
+    <ImageTarget name="Ryzen5button" size="20.000000 26.195965" />
+    <ImageTarget name="ryzen3button" size="20.000000 26.195965" />
+  </Tracking>
+</QCARConfig>
